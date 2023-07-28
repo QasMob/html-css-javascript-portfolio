@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px) {
+  .art {
+    height: 50vh;
+    width: 40vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .art {
+    height: 25vh;
+    width: 40vw;
+  }
+}
