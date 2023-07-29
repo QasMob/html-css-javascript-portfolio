@@ -4,8 +4,132 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mobeen|Portfolio</title>
+    <link rel="stylesheet" href="Growth.css" />
+    <link rel="stylesheet" href="GrowthMobile.css" />
   </head>
   <body>
-    hey
+    <nav id="desktop-nav">
+      <div class="logo">Mobeen Qasim</div>
+      <div>
+        <ul class="nav-links">
+          <li><a href="index.html">About</a></li>
+          <li><a href="index.html">Experience</a></li>
+          <li><a href="index.html">Projects</a></li>
+          <li><a href="indextwo.html">Other</a></li>
+          <li><a href="index.html">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <nav id="hamburger-nav">
+      <div class="logo">Mobeen Qasim</div>
+      <div class="hamburger-menu">
+        <div class="hamburger-icon" onclick="toggleMenu()">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="menu-links">
+          <li><a href="index.html" onclick="toggleMenu()">About</a></li>
+          <li><a href="index.html" onclick="toggleMenu()">Experience</a></li>
+          <li><a href="index.html" onclick="toggleMenu()">Projects</a></li>
+          <li><a href="indextwo.html" onclick="toggleMenu()">Other</a></li>
+          <li><a href="index.html" onclick="toggleMenu()">Contact</a></li>
+        </div>
+      </div>
+    </nav>
+    <div id="container">
+      <div id="header__section">
+        <div class="opening_section">
+          <h1 class="title__project">GrowthHub</h1>
+          <p>
+            A self-improvement app that creates a more personalized experience
+            for different users.
+          </p>
+        </div>
+      </div>
+      <div id="mockup">
+        <img
+          src="Assets/growthhub_mockup_one.png"
+          alt="mockup homescreen"
+          class="mockup_screen"
+        />
+        <img
+          src="Assets/growthhub_mockup_two.png"
+          alt="mockup discoveryscreen"
+          class="mockup_screen_two"
+        />
+        <img
+          src="Assets/growthhub_mockup_three.png"
+          alt="mockup joingroupscreen"
+          class="mockup_screen_three"
+        />
+        <img
+          src="Assets/growthhub_mockup_four.png"
+          alt="mockup communitiesscreen"
+          class="mockup_screen_four"
+        />
+        <img
+          src="Assets/growthhub_mockup_five.png"
+          alt="mockup chatscreen"
+          class="mockup_screen_five"
+        />
+      </div>
+      <div id="timeline">
+        <img
+          src="Assets/Experience_Growth.PNG"
+          alt="timelinee"
+          class="timeline_one"
+        />
+      </div>
+      <div class="body_section">
+        <div class="problem">
+          <h2 class="htwo">Problem:</h2>
+          <p class="p1">
+            Numerous self-improvement applications focus on aspects like goal
+            setting and meditation, but they often lack a sense of community
+            that can offer solace to individuals who may experience feelings of
+            loneliness during their journey of personal growth.
+          </p>
+          <h2 class="htwo">Solution:</h2>
+          <p class="p1">
+            Develop a platform dedicated to self-improvement, providing a
+            vibrant hub where individuals on their personal growth journey can
+            connect with one another in real-time. This platform would enable
+            them to share their experiences, exchange valuable tips and tricks,
+            and ultimately feel a stronger sense of community, alleviating the
+            sense of loneliness often associated with self-improvement
+            endeavors.
+          </p>
+        </div>
+      </div>
+      <div class="research_section body_section">
+        <h2 class="title__project reserch">Research</h2>
+        <div class="problem">
+          <h2 class="htwo">Research Methods:</h2>
+          <div class="method">
+            <button class="btn">Competitor Analysis</button>
+            <button class="btn-1">User Personas</button>
+          </div>
+          <h2 class="htwo">Competitor Analysis:</h2>
+          <p class="p1">
+            Numerous self-improvement applications focus on aspects like goal
+            setting and meditation, but they often lack a sense of community
+            that can offer solace to individuals who may experience feelings of
+            loneliness during their journey of personal growth.
+          </p>
+          <h2 class="htwo">Research Takeaways:</h2>
+          <p class="p1">
+            Develop a platform dedicated to self-improvement, providing a
+            vibrant hub where individuals on their personal growth journey can
+            connect with one another in real-time. This platform would enable
+            them to share their experiences, exchange valuable tips and tricks,
+            and ultimately feel a stronger sense of community, alleviating the
+            sense of loneliness often associated with self-improvement
+            endeavors.
+          </p>
+          <h2 class="htwo">User Persona:</h2>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
