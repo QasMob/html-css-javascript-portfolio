@@ -23,6 +23,9 @@
   .section-container {
     display: block;
   }
+  .pf {
+    margin-left: 3rem;
+  }
   .arrow {
     display: none;
   }
@@ -54,6 +57,9 @@
   }
   article {
     font-size: 1rem;
+  }
+  .pf {
+    margin-left: 0.5rem;
   }
   footer nav {
     height: fit-content;

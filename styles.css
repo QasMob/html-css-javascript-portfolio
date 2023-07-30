@@ -49,10 +49,10 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: #006d77;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: #006d77;
 }
 
 .logo {
@@ -284,6 +284,9 @@ section {
   position: absolute;
   right: -5rem;
   bottom: 2.5rem;
+}
+h1 {
+  color: #006d77;
 }
 
 .details-container {

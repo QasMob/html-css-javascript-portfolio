@@ -42,14 +42,18 @@ nav {
 a {
   color: black;
   text-decoration: none;
-  text-decoration-color: white;
+  text-decoration-color: #006d77;
 }
 
 a:hover {
-  color: grey;
+  color: #006d77;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: #006d77;
+}
+
+h1 {
+  color: #006d77;
 }
 
 .logo {
@@ -155,7 +159,11 @@ a:hover {
 
 .title__project {
   font-size: 5rem;
-  color: #444444;
+  color: #006d77;
+}
+
+.htwo {
+  color: #006d77;
 }
 
 /* MOCKUP SECTION */
@@ -255,7 +263,7 @@ img {
 
 .research3 {
   /* border: 1rem solid blue; */
-  margin-top: 5rem;
+  margin-top: 4rem;
   display: flex;
   margin-left: 17rem;
   margin-bottom: 5rem;
@@ -292,6 +300,10 @@ img {
 
 .four {
   margin-top: 10rem;
+}
+
+.ok {
+  margin-top: -1rem;
 }
 
 .tasktext {
