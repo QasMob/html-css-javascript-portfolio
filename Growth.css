@@ -173,7 +173,7 @@ img {
 
 /* TIMELINE SECTION */
 
-#timeline {
+.timeline {
   /* border: 1rem solid blue; */
   display: flex;
   justify-content: center;
@@ -232,4 +232,138 @@ img {
   font-size: 2rem;
   padding: 1em;
   margin-left: 5rem;
+}
+
+.research {
+  /* border: 1rem solid blue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10rem;
+  margin-bottom: 15rem;
+  scale: 5.1;
+}
+
+.research2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20rem;
+  margin-bottom: 28rem;
+  scale: 6;
+}
+
+.research3 {
+  /* border: 1rem solid blue; */
+  margin-top: 5rem;
+  display: flex;
+  margin-left: 17rem;
+  margin-bottom: 5rem;
+  justify-content: start;
+  scale: 1.5;
+}
+
+.alex {
+  /* border: 1rem solid blue; */
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 19rem;
+  scale: 3;
+  margin-top: 18rem;
+}
+
+#ideating {
+  margin-top: 10rem;
+}
+
+.idea {
+  margin-right: 75rem;
+}
+
+.userflow {
+  scale: 5.1;
+  margin-top: 23rem;
+  margin-bottom: 3rem;
+}
+
+.three {
+  margin-top: 5rem;
+}
+
+.four {
+  margin-top: 10rem;
+}
+
+.tasktext {
+  margin-top: 20rem;
+}
+
+.tasktexttwo {
+  margin-top: 3rem;
+}
+
+.usertwo {
+  margin-top: 35rem;
+}
+
+.five {
+  /* border: 1rem solid blue; */
+  justify-content: start;
+  margin-top: 15rem;
+  margin-right: 76rem;
+}
+
+.lowone {
+  scale: 3;
+  margin-top: 15rem;
+}
+
+.lowtwo {
+  scale: 1;
+  margin-top: 5rem;
+  margin-right: 43.8rem;
+}
+
+.lowthree {
+  scale: 2;
+  margin-top: -10.7rem;
+  margin-left: 22rem;
+}
+
+.btn-container {
+  /* border: 2rem solid blue; */
+  width: 100vw;
+  margin-top: 50rem;
+  display: flex;
+  justify-content: center;
+}
+
+.screen {
+  border: 2rem solid blue;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.feedback {
+  margin-top: 40rem;
+}
+
+.onboard {
+  scale: 2;
+  margin-bottom: 21rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding-top: 10rem;
+}
+
+.seven {
+  margin-top: 20rem;
+}
+
+.signup {
+  width: 45rem;
 }
