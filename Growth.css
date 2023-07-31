@@ -256,9 +256,27 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 20rem;
+  margin-top: 17.5rem;
   margin-bottom: 28rem;
-  scale: 6;
+  scale: 5;
+  z-index: 1;
+}
+
+.gg {
+  margin-top: 11rem;
+}
+
+.color {
+  scale: 2;
+  margin-top: 50rem;
+}
+
+.method {
+  margin-top: 5rem;
+}
+
+.ab {
+  margin-top: 0rem;
 }
 
 .research3 {
@@ -269,6 +287,10 @@ img {
   margin-bottom: 5rem;
   justify-content: start;
   scale: 1.5;
+}
+
+.w {
+  margin-top: -14rem;
 }
 
 .alex {
@@ -300,6 +322,8 @@ img {
 
 .four {
   margin-top: 10rem;
+  margin-right: 72rem;
+  margin-bottom: 4rem;
 }
 
 .ok {
@@ -307,7 +331,11 @@ img {
 }
 
 .tasktext {
-  margin-top: 20rem;
+  margin-top: 5rem;
+}
+
+.lowfid {
+  margin-top: 10rem;
 }
 
 .tasktexttwo {
@@ -321,8 +349,8 @@ img {
 .five {
   /* border: 1rem solid blue; */
   justify-content: start;
-  margin-top: 15rem;
-  margin-right: 76rem;
+  margin-top: 7rem;
+  margin-right: 71rem;
 }
 
 .lowone {
@@ -359,7 +387,7 @@ img {
 }
 
 .feedback {
-  margin-top: 40rem;
+  margin-top: 3rem;
 }
 
 .onboard {
