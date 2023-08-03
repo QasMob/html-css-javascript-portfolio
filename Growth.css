@@ -184,6 +184,7 @@ img {
 .timeline {
   /* border: 1rem solid blue; */
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   scale: 1.8;
   margin-top: 5rem;
@@ -280,6 +281,16 @@ img {
 }
 
 .research3 {
+  /* border: 1rem solid blue; */
+  margin-top: 4rem;
+  display: flex;
+  margin-left: 17rem;
+  margin-bottom: 5rem;
+  justify-content: start;
+  scale: 1.5;
+}
+
+research33 {
   /* border: 1rem solid blue; */
   margin-top: 4rem;
   display: flex;
@@ -394,6 +405,7 @@ img {
   scale: 2;
   margin-bottom: 21rem;
   display: flex;
+  flex-wrap: flex;
   flex-direction: column;
   align-items: center;
   gap: 1rem;
@@ -401,7 +413,6 @@ img {
 }
 
 .seven {
-  margin-top: 20rem;
 }
 
 .signup {
