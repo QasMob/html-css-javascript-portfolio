@@ -1,0 +1,13 @@
+@media (max-width: 1200px) {
+    .screen {
+        display: none;
+    }
+    
+    .finalpro {
+        display: block;
+        margin-top: -5rem;
+        margin-bottom: 3rem;
+    }
+    
+    
+    }

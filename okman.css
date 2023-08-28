@@ -36,19 +36,9 @@
     scale: 2;
   }
 
-  .research33 {
-    margin-left: 5rem;
-  }
 
-  .research3 {
-    margin-left: 0;
-    padding-left: -5rem;
-  }
 
-  .alex {
-    scale: 2;
-    margin-left: 4rem;
-  }
+ 
 
   .four {
     margin-right: 51rem;
@@ -103,10 +93,7 @@
     overflow: hidden;
   }
 
-  .research3 {
-    margin-left: 0;
-    padding-left: 15rem;
-  }
+
 
   .four {
     margin-right: 0;
@@ -182,6 +169,11 @@
     overflow: hidden;
   }
 
+
+  .research33 {
+    margin-left: 15rem;
+  }
+
   p {
     font-size: 1rem;
     text-align: center;
@@ -218,23 +210,14 @@
     margin-left: 13rem;
   }
 
-  .research33 {
-    margin-left: 15rem;
-  }
 
   .mkay {
     margin-left: 13rem;
     max-width: 35ch;
   }
 
-  .research3 {
-    margin-top: -0.1rem;
-    margin-top: 2rem;
-  }
 
-  .alex {
-    scale: 1;
-  }
+
 
   .us {
     max-width: 70ch;

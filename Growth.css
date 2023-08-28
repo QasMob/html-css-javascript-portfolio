@@ -208,7 +208,7 @@ img {
 .p1 {
   margin-top: 1rem;
   font-size: 1.2rem;
-  max-width: 120ch;
+  max-width: 75ch;
 }
 
 .reserch {
@@ -277,16 +277,16 @@ img {
 }
 
 .ab {
-  margin-top: 0rem;
+margin-left: 30rem;
+
 }
 
-.research3 {
-  /* border: 1rem solid blue; */
+.alex-pic {
+  border: 1rem solid blue;
   margin-top: 4rem;
-  display: flex;
-  margin-left: 17rem;
+
   margin-bottom: 5rem;
-  justify-content: start;
+
   scale: 1.5;
 }
 
@@ -296,7 +296,7 @@ research33 {
   display: flex;
   margin-left: 17rem;
   margin-bottom: 5rem;
-  justify-content: start;
+  justify-content: center;
   scale: 1.5;
 }
 
@@ -304,12 +304,16 @@ research33 {
   margin-top: -14rem;
 }
 
+
+.cont-alex {
+  display: flex;
+  justify-content: center;
+}
+
+
 .alex {
   /* border: 1rem solid blue; */
-  display: flex;
-  justify-content: flex-start;
-  padding-left: 19rem;
-  scale: 3;
+  scale: 1;
   margin-top: 18rem;
 }
 
@@ -415,6 +419,10 @@ research33 {
 .seven {
 }
 
+
+.finalpro {
+  display: none;
+}
 .signup {
   width: 45rem;
 }

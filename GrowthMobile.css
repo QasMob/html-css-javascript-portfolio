@@ -5,13 +5,27 @@
   }
   .about-containers {
     flex-wrap: wrap;
-  }
+  
+  
+}
+
+
 }
 
 @media screen and (max-width: 1200px) {
   #desktop-nav {
     display: none;
   }
+
+  .ab-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  
+
+
+
   #hamburger-nav {
     display: flex;
   }
@@ -41,6 +55,7 @@
   .about-containers {
     margin-top: 0;
   }
+ 
 }
 
 @media screen and (max-width: 600px) {
@@ -55,6 +70,8 @@
   article {
     font-size: 1rem;
   }
+
+
   footer nav {
     height: fit-content;
     margin-bottom: 2rem;
@@ -71,6 +88,8 @@
   .nav-links li a {
     font-size: 1rem;
   }
+  
+
   .experience-sub-title {
     font-size: 1.25rem;
   }
@@ -95,5 +114,9 @@
   }
   .text-container {
     text-align: justify;
+  }
+
+  .screen {
+  display: none;
   }
 }
