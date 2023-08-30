@@ -321,3 +321,16 @@
     padding-left: 18rem;
   }
 }
+
+
+@media screen and (max-width: 425px) {
+  body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    overflow: hidden;
+  }
+
+  .timeline {
+    margin-left: 20rem;
+  }
+}
