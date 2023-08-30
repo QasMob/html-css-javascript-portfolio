@@ -71,14 +71,25 @@
     font-size: 1rem;
   }
 
+
+
+.research3 {
+  scale: 1;
+}
+
   .research2 {
     scale: 5;
   }
 
   .p1 {
     font-size: 0.5rem;
+    max-width: 45ch;
   }
 
+
+  .usss {
+    margin-left: 1rem;
+  }
 
   footer nav {
     height: fit-content;
