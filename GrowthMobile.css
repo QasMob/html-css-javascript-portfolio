@@ -71,6 +71,14 @@
     font-size: 1rem;
   }
 
+  .research2 {
+    scale: 5;
+  }
+
+  .p1 {
+    font-size: 0.5rem;
+  }
+
 
   footer nav {
     height: fit-content;
