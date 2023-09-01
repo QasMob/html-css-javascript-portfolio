@@ -562,5 +562,20 @@
                 .finalpro {
                     font-size: 1.3rem;
                 }
+
+
+                .container__user {
+                  margin-top: 10rem;
+                }
+                
+                .container_text {
+                  margin-left: 19rem;
+                  margin-bottom: 5rem;
+                }
+
+                .fonts {
+                  font-size: 1rem;
+                  
+                }
       }
       
