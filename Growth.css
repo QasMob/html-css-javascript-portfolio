@@ -374,22 +374,26 @@ research33 {
   margin-right: 71rem;
 }
 
-.lowone {
-  scale: 3;
-  margin-top: 15rem;
+
+@media screen (max-width: 344px){
+  .lowone {
+    scale: 3;
+    margin-top: 15rem;
+  }
+  
+  .lowtwo {
+    scale: 1;
+    margin-top: 5rem;
+    margin-right: 43.8rem;
+  }
+  
+  .lowthree {
+    scale: 2;
+    margin-top: -10.7rem;
+    margin-left: 22rem;
+  }
 }
 
-.lowtwo {
-  scale: 1;
-  margin-top: 5rem;
-  margin-right: 43.8rem;
-}
-
-.lowthree {
-  scale: 2;
-  margin-top: -10.7rem;
-  margin-left: 22rem;
-}
 
 .btn-container {
   /* border: 2rem solid blue; */
