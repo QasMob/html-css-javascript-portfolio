@@ -13,6 +13,26 @@
 
 
 
+@media screen (max-width: 500px){
+        
+  .lowone {
+    scale: 3;
+    margin-top: 15rem;
+  }
+  
+  .lowtwo {
+    scale: 1;
+    margin-top: 5rem;
+    margin-right: 43.8rem;
+  }
+  
+  .lowthree {
+    scale: 2;
+    margin-top: -10.7rem;
+    margin-left: 22rem;
+  }
+        }
+
 
 
 
