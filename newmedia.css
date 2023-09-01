@@ -33,9 +33,11 @@
 
         .finalprotwo {
             display: block;
+            font-size: 1rem;
         }
 
         .finalprothree {
+          font-size: 1rem;
             margin-left: 15rem;
             margin-top: -2rem;
             margin-bottom: 2rem;
@@ -476,7 +478,7 @@
 
 
             .finalprotwo {
-                margin-left: 4rem;
+                margin-left: -1rem;
             }
 
 

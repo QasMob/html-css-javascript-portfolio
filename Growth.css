@@ -211,6 +211,18 @@ img {
   max-width: 75ch;
 }
 
+
+/* add margin-top */
+
+.container__user {
+  margin-top: 10rem;
+}
+
+.container_text {
+  margin-left: 19rem;
+  margin-bottom: 5rem;
+}
+
 .reserch {
   /* border: 1rem solid blue; */
   display: flex;
@@ -418,6 +430,7 @@ research33 {
 
 .seven {
 }
+
 
 
 .finalpro {
