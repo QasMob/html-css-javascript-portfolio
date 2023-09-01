@@ -407,9 +407,6 @@
       
       
       @media screen and (max-width: 425px) {
-
-
-        
         body {
           overflow-x: hidden;
           overflow-y: hidden;
@@ -598,6 +595,5 @@
                   font-size: 1rem;
                   
                 }
-                
       }
       
