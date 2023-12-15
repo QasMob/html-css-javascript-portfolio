@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+
+}
+
+
+
+.iframe-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    margin: 20px 0; /* Add some vertical spacing */
+    height: calc(100vh - 40px); /* 100% of the viewport height minus the margin */
+}
+
+iframe {
+    border: none; /* Optional: removes the border */
+    width: 80%; /* Set to the desired width */
+    max-width: 1920px; /* You can set a max-width if you want */
+    height: 100%; /* Full height of its container */
+}
